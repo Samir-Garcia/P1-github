@@ -14,4 +14,4 @@ For a better experiences its recommend to use a FHD screen.
 
 ## Author
 Samir Garcia
-All rigths reserved. 2026
+. All rigths reserved. 2026
